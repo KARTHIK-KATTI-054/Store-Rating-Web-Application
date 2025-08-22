@@ -26,6 +26,7 @@ This web application allows users to rate stores registered on the platform. It 
     -   Store Owners have a dashboard to view user ratings and the average store rating.
 -   **Form Validations:** Input fields are validated according to the specified rules.
 -   **Sorting:** Listings support ascending/descending sorting for key fields.
+-   By Giving the Users Examples on the Web Application 
 
 ## User Roles
 
